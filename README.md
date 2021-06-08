@@ -2,6 +2,9 @@
 
 ![release](https://img.shields.io/badge/release-v1.0.0-blue.svg)
 [![Build Status](https://travis-ci.com/silentsoft/datecraft.svg?branch=main)](https://travis-ci.com/silentsoft/datecraft)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=silentsoft_datecraft&metric=alert_status)](https://sonarcloud.io/dashboard?id=silentsoft_datecraft)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=silentsoft_datecraft&metric=coverage)](https://sonarcloud.io/dashboard?id=silentsoft_datecraft)
+[![HitCount](http://hits.dwyl.com/silentsoft/datecraft.svg)](http://hits.dwyl.com/silentsoft/datecraft)
 
 > Facade API to handling various date formats for Coordinated Universal Time also known as UTC.
 
