@@ -1,6 +1,7 @@
 # DateCraft
 
 ![release](https://img.shields.io/badge/release-v1.0.0-blue.svg)
+[![Build Status](https://travis-ci.com/silentsoft/datecraft.svg?branch=main)](https://travis-ci.com/silentsoft/datecraft)
 
 > Facade API to handling various date formats for Coordinated Universal Time also known as UTC.
 
