@@ -1,25 +1,14 @@
 # DateCraft
 
-![release](https://img.shields.io/badge/release-v1.0.0-blue.svg)
+![Maven Central](https://img.shields.io/maven-central/v/org.silentsoft/datecraft)
 [![Build Status](https://travis-ci.com/silentsoft/datecraft.svg?branch=main)](https://travis-ci.com/silentsoft/datecraft)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=silentsoft_datecraft&metric=alert_status)](https://sonarcloud.io/dashboard?id=silentsoft_datecraft)
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=silentsoft_datecraft&metric=coverage)](https://sonarcloud.io/dashboard?id=silentsoft_datecraft)
-[![HitCount](http://hits.dwyl.com/silentsoft/datecraft.svg)](http://hits.dwyl.com/silentsoft/datecraft)
+[![Hits](https://hits.sh/github.com/silentsoft/datecraft.svg)](https://hits.sh)
 
 > Facade API to handling various date formats for Coordinated Universal Time also known as UTC.
 
 `DateCraft` is a simple facade API to handling various date formats for `Coordinated Universal Time` also known as `UTC`.
-
-## Maven Central
-```xml
-<dependencies>
-    <dependency>
-        <groupId>org.silentsoft</groupId>
-        <artifactId>datecraft</artifactId>
-        <version>1.0.0</version>
-    </dependency>
-</dependencies>
-```
 
 ## Epoch millisecond examples
   - Getting current epoch millisecond
@@ -138,6 +127,15 @@
     // Returns "1970-01-01T00:00:00Z"
     DateCraft.parse("1970-01-01 09:00:00", "uuuu-MM-dd HH:mm:ss", ZoneId.of("GMT+9"));
     ```
+
+## Maven Central
+```xml
+<dependency>
+    <groupId>org.silentsoft</groupId>
+    <artifactId>datecraft</artifactId>
+    <version>1.0.0</version>
+</dependency>
+```
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
