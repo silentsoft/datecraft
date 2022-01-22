@@ -1,7 +1,7 @@
 # DateCraft
 
-![Maven Central](https://img.shields.io/maven-central/v/org.silentsoft/datecraft)
-[![Build Status](https://travis-ci.com/silentsoft/datecraft.svg?branch=main)](https://travis-ci.com/silentsoft/datecraft)
+[![Maven Central](https://img.shields.io/maven-central/v/org.silentsoft/datecraft)](https://search.maven.org/artifact/org.silentsoft/datecraft)
+[![Build Status](https://app.travis-ci.com/silentsoft/datecraft.svg?branch=main)](https://app.travis-ci.com/silentsoft/datecraft)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=silentsoft_datecraft&metric=alert_status)](https://sonarcloud.io/dashboard?id=silentsoft_datecraft)
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=silentsoft_datecraft&metric=coverage)](https://sonarcloud.io/dashboard?id=silentsoft_datecraft)
 [![Hits](https://hits.sh/github.com/silentsoft/datecraft.svg)](https://hits.sh)
